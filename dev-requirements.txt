@@ -1,4 +1,4 @@
-chatterbot>=1.0,<1.1
+git+git://github.com/profmcdan/ChatterBot@develop#egg=chatterbot
 nose
 pip
 twine
